@@ -1,7 +1,7 @@
 import { configureStore } from '@reduxjs/toolkit';
 import resumeReducer from '../createSlice/createSlice';
 
-//sajdhskj
+//that wrong i Did
 
 const store = configureStore({
   reducer: {
